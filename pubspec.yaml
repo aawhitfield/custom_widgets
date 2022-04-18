@@ -1,6 +1,6 @@
 name: custom_widgets
 description: A library of custom, reusable Flutter widgets
-version: 0.0.2
+version: 0.0.3
 homepage: 'https://www.binsarychaos.us'
 
 environment:
